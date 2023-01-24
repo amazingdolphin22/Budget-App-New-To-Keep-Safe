@@ -1,0 +1,5 @@
+Food|100
+Clothing|100
+Movies|50
+Bowling|75Toy|20
+Cuc|160
